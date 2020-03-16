@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.row-1 div ,.row-2 div, .row-3 div{
+    display: inline;
+}
+
+
+#left, #right {
+    border-top: solid black ;
+    border-bottom: solid black;
+}
+
+#center {
+    border: solid black;
+}
+
+#top, #bottom{
+    border-right: solid black;
+    border-left: solid black;
+}
+
+
