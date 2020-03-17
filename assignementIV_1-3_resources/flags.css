@@ -8,7 +8,7 @@ footer{
     position: absolute;
     text-align: center;
     bottom: 10px;
-    left: 42%;
+    left: 40%;
     margin-top: 50px;
     color: white;
 }
@@ -73,30 +73,30 @@ h1{
 
 /* **************** Ethiopia *****************/
 #eth-row1{
-    background: rgb(0,255,0);
+    background: #078930;
     height: 40px ;
 }
 #eth-row2{
-    background: rgb(255,255,0);
+    background: #FCDD09;
     height: 40px;
 }
 #eth-row3{
-    background: rgb(255,0,0);
+    background: #DA121A;
     height: 40px;
 }
 
 /* **************** Germany **************** */
 
 #deu-row1{
-    background: rgb(0,0,0);
+    background: #000;
     height: 40px ;
 }
 #deu-row2{
-    background: rgb(255,0,0);
+    background: #DD0000;
     height: 40px ;
 }
 #deu-row3{
-    background: rgb(255,255,0);
+    background: #FFCE00;
     height: 40px ;
 }
 
@@ -104,19 +104,19 @@ h1{
 /* **************** Belgium **************** */
 
 #bel-row1{
-    background: rgb(0,0,0);
+    background: #000;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #bel-row2{
-    background: rgb(255, 255, 0);
+    background: #FDDA24;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #bel-row3{
-    background: rgb(255,0,0);
+    background: #EF3340;
     width: 70px ;
     float: left;
     height: 120px;
@@ -126,19 +126,19 @@ h1{
 /* **************** Nigeria **************** */
 
 #nig-row1{
-    background: rgb(0, 255, 0);
+    background: #008751;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #nig-row2{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #nig-row3{
-    background: rgb(0,255,0);
+    background: #008751;
     width: 70px ;
     float: left;
     height: 120px;
@@ -147,34 +147,34 @@ h1{
 /* **************** Egypt **************** */
 
 #egy-row1{
-    background: rgb(255,0,0);
+    background: #CE1126;
     height: 40px ;
 }
 #egy-row2{
-    background: rgb(255,255,255);
+    background: #FFF;
     height: 40px ;
 }
 #egy-row3{
-    background: rgb(0,0,0);
+    background: #000;
     height: 40px ;
 }
 
 /* **************** Ivory Coast **************** */
 
 #cot-row1{
-    background: rgb(0, 255, 0);
+    background: #009E60;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #cot-row2{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #cot-row3{
-    background: rgb(255, 115, 0);
+    background: #F77F00;
     width: 70px ;
     float: left;
     height: 120px;
@@ -183,19 +183,19 @@ h1{
 /* **************** Senegal **************** */
 
 #sen-row1{
-    background: rgb(0, 255, 0);
+    background: #00853F;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #sen-row2{
-    background: rgb(255, 255, 0);
+    background: #FDEF42;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #sen-row3{
-    background: rgb(255, 0, 0);
+    background: #E31B23;
     width: 70px ;
     float: left;
     height: 120px;
@@ -204,113 +204,113 @@ h1{
 /* **************** Israel **************** */
 
 #isr-row1{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     height: 10px ;
-    border-bottom: solid blue 15px;
+    border-bottom: solid #0038B8 15px;
 }
 #isr-row2{
-    background: rgb(255, 255, 255);
+    background:  #FFF;
     height: 70px ;
     
 }
 #isr-row3{
-    background: rgb(255, 255, 255);
+    background:  #FFF;
     height: 10px ;
-    border-top: solid blue 15px;
+    border-top: solid #0038B8 15px;
 }
 
 /* **************** Ukraine **************** */
 
 #ukr-row1{
-    background: rgb(0, 0, 255);
+    background: #005BBB;
     height: 60px ;
 }
 #ukr-row2{
-    background: rgb(255,255,0);
+    background: #FFD500;
     height: 60px ;
 }
 
 /* **************** Spain **************** */
 
 #esp-row1{
-    background: rgb(255, 0, 0);
+    background: #AA151B;
     height: 10px ;
-    border-bottom: solid rgb(255, 0, 0) 15px;
+    border-bottom: solid#AA151B 15px;
 }
 #esp-row2{
-    background: rgb(255, 255, 0);
+    background: #F1BF00;
     height: 70px ;
     
 }
 #esp-row3{
-    background: rgb(255, 0, 0);
+    background: #AA151B;
     height: 10px ;
-    border-top: solid rgb(255, 0, 0) 15px;
+    border-top: solid #AA151B 15px;
 }
 
 /* **************** Tunisia **************** */
 #tun-row1{
-    background: rgb(255,0,0);
+    background: #E70013;
     height: 120px ;
 }
 
 /* **************** Netherlands **************** */
 
 #neth-row1{
-    background: rgb(255,0,0);
+    background: #AE1C28;
     height: 40px ;
 }
 #neth-row2{
-    background: rgb(255,255,255);
+    background: #FFF;
     height: 40px ;
 }
 #neth-row3{
-    background: rgb(0,0,255);
+    background: #21468B;
     height: 40px ;
 }
 
 /* **************** Croatia **************** */
 
 #cro-row1{
-    background: rgb(255,0,0);
+    background: #FF0000;
     height: 40px ;
 }
 #cro-row2{
-    background: rgb(255,255,255);
+    background: #FFF;
     height: 40px ;
 }
 #cro-row3{
-    background: rgb(0,0,255);
+    background: #171796;
     height: 40px ;
 }
 
 /* **************** Estonia **************** */
 
 #est-row1{
-    background: rgb(0, 0, 255);
+    background: #0072CE;
     height: 40px ;
 }
 #est-row2{
-    background: rgb(0, 0, 0);
+    background: #000;
     height: 40px ;
 }
 #est-row3{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     height: 40px ;
 }
 
 /* **************** Ghana **************** */
 
 #gha-row1{
-    background: rgb(255, 0, 0);
+    background: #CE1126;
     height: 40px ;
 }
 #gha-row2{
-    background: rgb(255, 255, 0);
+    background: #FCD116;
     height: 40px ;
 }
 #gha-row3{
-    background: rgb(0, 255, 0);
+    background: #006B3F;
     height: 40px ;
 }
 
@@ -318,19 +318,19 @@ h1{
 /* **************** Italy **************** */
 
 #ita-row1{
-    background: rgb(0, 255, 0);
+    background: #008C45;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #ita-row2{
-    background: rgb(255, 255, 0);
+    background: #F4F5F0;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #ita-row3{
-    background: rgb(255, 0, 0);
+    background: #CD212A;
     width: 70px ;
     float: left;
     height: 120px;
@@ -339,19 +339,19 @@ h1{
 /* **************** Austria **************** */
 
 #aus-row1{
-    background: rgb(255, 0, 0);
+    background: #ED2939;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #aus-row2{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     width: 70px ;
     float: left;
     height: 120px;
 }
 #aus-row3{
-    background: rgb(255, 0, 0);
+    background: #ED2939;
     width: 70px ;
     float: left;
     height: 120px;
@@ -360,10 +360,10 @@ h1{
 /* **************** Poland **************** */
 
 #pol-row1{
-    background: rgb(255, 255, 255);
+    background: #FFF;
     height: 60px ;
 }
 #pol-row2{
-    background: rgb(255, 0, 0);
+    background: #DC143C;
     height: 60px ;
 }
