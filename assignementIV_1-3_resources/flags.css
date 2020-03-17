@@ -5,8 +5,10 @@
 
 
 footer{
+    position: absolute;
     text-align: center;
     bottom: 10px;
+    left: 42%;
     margin-top: 50px;
     color: white;
 }
@@ -24,13 +26,14 @@ h1{
 }
 
 #container {
-    height: auto;
+    padding: 2% 0 5% 8%;
+    height: 600px;
     width: 70%;
     margin:auto;
     margin-top: 20px;
     border: solid black 1px;
     border-radius: 8px;
-    background-color: rgb(193, 216, 193);
+    background-color: rgb(164, 172, 164);
     overflow: scroll;
 
     
