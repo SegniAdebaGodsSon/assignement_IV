@@ -84,6 +84,13 @@ h1{
     background: #DA121A;
     height: 40px;
 }
+.eth-emb{
+    position: absolute;
+    left: 37%;
+    top: 27%;
+    height: 40%;
+    width: 30%;
+}
 
 /* **************** Germany **************** */
 
